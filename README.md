@@ -4,12 +4,12 @@
 
 ## About me
 ###
-Second-year BSc Computer Science & AI student at the University of Cape Town 🚀
+Second-year BSc Computer Science & AI student at the University of Cape Town 
 
 Passionate about building innovative solutions, exploring AI, and turning ideas into impactful technology. I continuously upskill myself while designing modern, minimalist systems that combine functionality with great user experiences.
 
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
