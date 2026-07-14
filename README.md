@@ -1,3 +1,8 @@
+<p align="center">
+
+  <img src="./developer-profile" width="100%">
+
+</p>
 ## 💻 Tech Stack
 
 ### Languages
