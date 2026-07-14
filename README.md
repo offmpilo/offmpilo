@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./developer-profile.png" alt="Developer Profile Banner" width="100%">
 </p>
+
 ## 💻 Tech Stack
 
 ### Languages
