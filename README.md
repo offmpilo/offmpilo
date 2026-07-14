@@ -1,7 +1,5 @@
 <p align="center">
-
-  <img src="./developer-profile" width="100%">
-
+  <img src="./developer-profile.png" alt="Developer Profile Banner" width="100%">
 </p>
 ## 💻 Tech Stack
 
